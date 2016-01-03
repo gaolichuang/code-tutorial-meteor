@@ -1,2 +1,2 @@
 # code-tutorial-meteor
-code turorial for meteor
+> code from opensource, i have written some comments.
